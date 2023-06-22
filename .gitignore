@@ -2,3 +2,4 @@ venv
 .idea
 *.pyc
 web_blog/db.sqlite3
+.env
